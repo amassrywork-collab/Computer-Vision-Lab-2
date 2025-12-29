@@ -1,45 +1,72 @@
+<div align="center">
+
 # Computer Vision Lab 2  
 ## Data Visualization with Matplotlib
 
-This repository contains my second practical lab for the **Deep Learning for Computer Vision** course.
+Second practical lab for the **Deep Learning for Computer Vision** course,  
+focused on building strong foundations in **data visualization and data analysis**.
 
-The main focus of this lab is building strong foundations in **data visualization using Matplotlib**, which is a critical skill for analyzing data and interpreting results in computer vision and machine learning workflows.
-
----
-
-## Lab Objectives
-- Understand the fundamentals of data visualization
-- Plot and analyze numerical data effectively
-- Customize figures for clarity and interpretability
-- Prepare for visualizing image data and model outputs in future labs
+</div>
 
 ---
 
-## Topics Covered
-- Basic plotting with Matplotlib
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Lab Overview
+
+This lab focuses on **data visualization using Matplotlib**, a core skill required
+for analyzing datasets and interpreting results in **Computer Vision, Machine Learning,
+and Deep Learning pipelines**.
+
+The goal is to understand how to visually explore data before working with
+image-based datasets and advanced vision models.
+
+---
+
+## 🎯 Objectives
+- Understand data visualization fundamentals
+- Plot numerical and real-world datasets
+- Analyze trends using visual tools
+- Prepare for visualizing image data and model outputs
+
+---
+
+## 📊 Topics Covered
 - Line plots and mathematical functions
-- Subplots and figure layouts
+- Subplots and multi-figure layouts
 - Scatter plots
 - Bar charts and histograms
 - Axis labels, titles, legends, and ticks
 - Plot customization and styling
 
+---
+
+## 🛠 Tools & Technologies
+- **Python** – Core programming language  
+- **NumPy** – Numerical computing and data handling  
+- **Matplotlib** – Data visualization  
+- **Jupyter Notebook** – Interactive experimentation  
 
 ---
 
-## Technologies Used
-- Python
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+## 📝 Notes
+- All visualizations were implemented as part of the lab requirements.
+- Datasets are included to ensure reproducibility.
+- This lab serves as a preparation step for upcoming computer vision experiments.
 
 ---
 
-## Notes
-- All plots and visualizations were implemented as part of the lab requirements.
-- The dataset files are included for reproducibility.
-- This lab serves as preparation for upcoming computer vision and deep learning experiments.
-
----
+<div align="center">
 
 **Continuous learning, one lab at a time 🚀**
+
+</div>
